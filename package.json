@@ -16,6 +16,7 @@
     "fs": "0.0.1-security",
     "q": "^1.4.1",
     "request": "^2.75.0",
-    "soupselect": "^0.2.0"
+    "soupselect": "^0.2.0",
+    "util": "^0.10.3"
   }
 }
