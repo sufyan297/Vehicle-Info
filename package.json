@@ -1,0 +1,21 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Sample NodeJS project\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sample"
+  ],
+  "author": "Mohammed Sufyan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "q": "^1.4.1",
+    "request": "^2.75.0",
+    "soupselect": "^0.2.0"
+  }
+}
