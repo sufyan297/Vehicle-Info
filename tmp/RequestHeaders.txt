@@ -1,0 +1,13 @@
+Accept:application/xml, text/xml, */*; q=0.01
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4,hi;q=0.2
+Connection:keep-alive
+Content-Length:2819
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:JSESSIONID=2EB9C71F6ADB04F00C6A88BAC13FC968
+Faces-Request:partial/ajax
+Host:parivahan.gov.in
+Origin:https://parivahan.gov.in
+Referer:https://parivahan.gov.in/rcdlstatus/vahan/rcDlHome.xhtml
+User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+X-Requested-With:XMLHttpRequest
